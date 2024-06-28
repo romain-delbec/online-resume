@@ -1,7 +1,7 @@
-# My personal website
+# Mon site personnel
 
-This repository contains my static website hosted on my Github Page.
+Ce repertoire contient mon site internet personnel, réalisé avec bootstrap et hébergé avec Github Pages.
 
-You will find :
-- My resume
-- And that's about it for now
+Vous trouverez sur le site :
+- Mon CV
+- Mes moyens de contact
